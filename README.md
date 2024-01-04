@@ -8,6 +8,7 @@ A basic c++ project of a bookstore management system using the basic concepts of
 -->The program offers a user-friendly interface with a menu-driven approach, allowing users to perform various operations on the book store.
 
 Member Functions:
+
 -CreateNode(): Adds a new book node to the end of the doubly linked list.
 
 -Display(): Displays all the books sorted by their names using Bubble Sort.
